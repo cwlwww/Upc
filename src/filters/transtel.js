@@ -1,0 +1,1 @@
+export default d=> d.slice(0,3)+'****'+d.slice(7)
